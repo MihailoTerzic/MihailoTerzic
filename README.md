@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning **advanced levels of my techstack**
 
 - 📫 How to reach me **mihailoterzic@gmail.com**
+- 🌐 My portfolio: **https://portfolio-three-beige-13.vercel.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
